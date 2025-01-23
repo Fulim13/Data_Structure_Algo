@@ -1,5 +1,3 @@
-# BACS2063 Data Structures and Algorithms
-
 ## Table of Contents
 
 [1. Main Menu](#part-1--main-menu)
